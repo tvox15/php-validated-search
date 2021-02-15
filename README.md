@@ -3,6 +3,8 @@ Completed on 12/29/2020
 
 A search function that queries a MySQL database using PHP and then displays a table of results.
 
+It uses Bootstrap and has responsive design as well.
+
 Project for client
 
 # Search Box

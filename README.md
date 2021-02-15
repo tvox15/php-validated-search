@@ -5,12 +5,18 @@ A search function that queries a MySQL database using PHP and then displays a ta
 
 Project for client
 
-# Validation
+# Search Box
+![Results Table](https://raw.githubusercontent.com/tvox15/php-validated-search/master/images/search-box.PNG)
+
+# Formatted Results Table
+![Results Table](https://raw.githubusercontent.com/tvox15/php-validated-search/master/images/search-results.PNG)
+
+
+# Validation and Error Handling
 Server side: prepared statements 
 
 Client side: Javascript validation using regex and other methods
 
-#Error handling 
 
 Error messages are shown when a user does an invalid search
 

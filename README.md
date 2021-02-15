@@ -6,7 +6,7 @@ A search function that queries a MySQL database using PHP and then displays a ta
 Project for client
 
 # Validation
-![alt text]("../images/search box.png?raw=true")
+![alt text]("images/search box.png?raw=true")
 
 Server side: prepared statements 
 
